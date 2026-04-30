@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# TakeABreak.crx
-
-=======
 # TakeABreak_chrome-ext
->>>>>>> 06d4630eb607ff1c8bad67e66e1ca3679133ec7d
+
 This is a Chrome extension which reminds the user to take a break!Taking a break is essential if you want to be productive and also for the users mental and physical health.
 
 ## Installation
